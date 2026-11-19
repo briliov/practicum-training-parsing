@@ -4,10 +4,9 @@ Practicum Training Parsing is a collection of Python scripts for web scraping, H
 
 ## TECH STACK
 
-![BeautifulSoup4](https://img.shields.io/badge/requests-black?style=for-the-badge&logoColor=#005FAD)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-black?style=for-the-badge&logoColor=#005FAD)
-![LXML](https://img.shields.io/badge/xml-black?style=for-the-badge&logo=xml&logoColor=#005FAD)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+![BeautifulSoup4](https://img.shields.io/badge/requests-black?style=for-the-badge&logoColor=#005FAD)
+![LXML](https://img.shields.io/badge/xml-black?style=for-the-badge&logo=xml&logoColor=#005FAD)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=blue)
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=orange)
 
@@ -74,3 +73,7 @@ python3 whats_new.py
 ```bash
 python3 arg_parsing.py Stepan -s Yakovlev -c Minsk --murzik
 ```
+
+---
+
+#### ✦ Author: **[Egor Briliov](https://github.com)**
